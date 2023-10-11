@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Nick-JY
 
-<img align="right" src="image/cat_dance.gif" alt="Hola Coders" width="350" height="290"/> 
+<img align="right" src="image/cat_dance.gif" alt="Hola Coders" width="350" height="290" style="margin-top:40px"/> 
 
 ##### I'm an undergraduate student at the School of Computer Science, Central China Normal University.
 
